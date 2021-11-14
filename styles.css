@@ -32,9 +32,10 @@ body{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
-h2{
+h1{
     margin: 20px;
-    padding-top: 15px
+    padding-top: 15px;
+    font-size: 1.8em;
 }
 #text{
     width: 300px;
@@ -62,7 +63,7 @@ h2{
     display: inline;
     margin-right: 15px;
 }
-h6{
+h2{
     font-size: medium;
 }
 a{
